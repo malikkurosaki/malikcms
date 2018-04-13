@@ -4,11 +4,11 @@ super easy to use drag n drop support
 
 
 what is new :
-1 . w3css framework support. 
-2 . you see wkhat your edit.
-3 . drag androb image.
-4 . upload image direcly.
-5 . youtube embed support.
+> w3css framework support. 
+> you see wkhat your edit.
+> drag androb image.
+> upload image direcly.
+> youtube embed support.
 
 etc ..
 
