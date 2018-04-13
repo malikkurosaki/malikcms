@@ -3,11 +3,16 @@ free cms malik cms
 super easy to use drag n drop support
 
 
-what is new :
->> w3css framework support. 
+###what is new :###
+>
+> w3css framework support.
+>
 > you see wkhat your edit.
+>
 > drag androb image.
+>
 > upload image direcly.
+>
 > youtube embed support.
 
 etc ..
