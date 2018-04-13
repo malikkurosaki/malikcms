@@ -4,7 +4,7 @@ super easy to use drag n drop support
 
 
 what is new :
-> w3css framework support. 
+>> w3css framework support. 
 > you see wkhat your edit.
 > drag androb image.
 > upload image direcly.
