@@ -12,6 +12,7 @@ what is new :
 
 etc ..
 
+[download](https://github.com/malikkurosaki/malikcms/blob/master/malikcms_10.zip)
 
 feel free to call WA +6281338929722 for more question
 
